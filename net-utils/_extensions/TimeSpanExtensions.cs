@@ -1,4 +1,6 @@
-﻿namespace agaertner.NetUtils
+﻿using System;
+
+namespace agaertner.NetUtils
 {
     public static class TimeSpanExtensions
     {

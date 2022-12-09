@@ -1,4 +1,8 @@
-﻿namespace agaertner.NetUtils
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace agaertner.NetUtils
 {
     public static class EnumerableExtensions
     {
